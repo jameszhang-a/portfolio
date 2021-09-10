@@ -35,8 +35,8 @@ const ProjectContainer = ({ project }) => (
   </div>
 );
 
-ProjectContainer.propTypes = {
-  project : PropTypes.node.isRequired
-};
+// ProjectContainer.propTypes = {
+//   project : PropTypes.node.isRequired
+// };
 
 export default ProjectContainer;

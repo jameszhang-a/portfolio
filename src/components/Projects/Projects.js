@@ -19,9 +19,9 @@ const Projects = () => {
       <div className='slide'>
         <h3>Slide 2.3</h3>
       </div>
-      {/* <div className='projects__grid'>
+      <div className='projects__grid'>
         {projects.map(project => <ProjectContainer key={uniqid()} project={project} />)}
-      </div> */}
+      </div>
     </section>
   );
 };

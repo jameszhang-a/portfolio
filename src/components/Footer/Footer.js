@@ -1,7 +1,7 @@
 import './Footer.css';
 
 const Footer = () => (
-  <footer>
+  <footer className='section'>
     <a href='https://github.com/jameszhang-a/portfolio' className='link'>
       James Zhang
     </a>
