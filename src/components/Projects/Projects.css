@@ -5,3 +5,8 @@
   grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));
   grid-gap: 2em;
 }
+.fp-controlArrow.fp-next {
+  right: 15px;
+  border-width: 100px 0 38.5px 34px;
+  border-color: transparent transparent transparent #fff;
+}

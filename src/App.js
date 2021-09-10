@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div id='top' className={`${themeName} app`}>
-      <Header />
+      {/* <Header /> */}
 
       <Switch>
         <Route exact path='/' component={Home} />

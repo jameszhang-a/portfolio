@@ -1,7 +1,7 @@
 .about {
   flex-direction: column;
-  margin-top: 3em;
-  min-height: 70vh;
+  /* margin-top: 3em; */
+  /* min-height: 70vh; */
 }
 
 .about__name {
