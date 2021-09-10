@@ -1,10 +1,11 @@
-.fp-controlArrow.fp-next {
+#projects > div.fp-controlArrow.fp-next {
   right: 5vw;
   border-width: 38.5px 0 38.5px 34px;
   border-color: transparent transparent transparent #fff;
 }
-.fp-controlArrow.fp-prev {
+#projects > div.fp-controlArrow.fp-prev {
   left: 5vw;
+  width: 0px;
   border-width: 38.5px 34px 38.5px 0;
   border-color: transparent #fff transparent transparent;
 }
