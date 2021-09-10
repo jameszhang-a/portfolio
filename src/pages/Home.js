@@ -18,16 +18,16 @@ export const Home = () => {
       menu={'header'}
       render={({ state, fullpageApi }) => {
         return (
-          <div>
+          <ReactFullpage.Wrapper>
             {/* <Header /> */}
             <About />
             <Projects />
             <Skills />
             <Contact />
             <Footer />
-          </div>
+          </ReactFullpage.Wrapper>
         );
       }}
     />
   );
-}
+};

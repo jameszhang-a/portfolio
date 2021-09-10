@@ -10,7 +10,7 @@ const Header = () => {
     <header className='header center'>
       <h3>
         {homepage ? (
-          <Link to='/' className='link'>
+          <Link to='/' className='link initial'>
             {title}
           </Link>
         ) : (
